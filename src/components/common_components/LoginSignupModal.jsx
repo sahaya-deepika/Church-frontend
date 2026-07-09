@@ -84,7 +84,7 @@ const LoginSignupModal = ({ onSuccess, onCancel, onSuccessGoToLink }) => {
   const [signupErrors, setSignupErrors] = useState({})
   const overlayRef = useRef(null)
 
-  const [loginForm, setLoginForm] = useState({ user_email: 'sakal@gmail.com', user_password: 'Sakal@123' })
+  const [loginForm, setLoginForm] = useState({ user_email: 'deepika@gmail.com', user_password: 'Deepika@123' })
   const [signupForm, setSignupForm] = useState({
     user_name: '', user_email: '', user_password: '', confirm_user_password: "",
     user_mobile_number: '', prayer_group: '',
