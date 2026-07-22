@@ -36,7 +36,7 @@ const HeroSection = () => {
 
         {/* Location tag */}
         <p className="text-white/60 font-sans text-sm uppercase tracking-[0.3em] mb-8">
-          Illuppur, Tamil Nadu
+          Okkur, Tamil Nadu
         </p>
 
         {/* Gold divider */}

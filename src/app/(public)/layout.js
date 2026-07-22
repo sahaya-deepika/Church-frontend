@@ -34,7 +34,7 @@ const PublicLayout = ({ children }) => {
         {children}
       </main>
       <footer className="bg-[#0F2A4A] text-[#C9A84C] text-center py-8 mt-20 text-sm tracking-widest uppercase font-sans">
-        © {new Date().getFullYear()} St. Antony's Church, Illuppur — All Rights Reserved
+        © {new Date().getFullYear()} St. Antony's Church, Okkur — All Rights Reserved
       </footer>
       {loginOrSignupModal && (
         <div className='h-screen flex items-center justify-center'>

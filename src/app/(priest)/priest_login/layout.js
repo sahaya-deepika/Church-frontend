@@ -29,7 +29,7 @@ const PriestLoginLayout = ({ children }) => {
           </div>
           <div>
             <span className="block text-white font-serif text-base font-semibold tracking-wide">St. Antony's Church</span>
-            <span className="block text-[#C9A84C]/60 text-[10px] font-sans uppercase tracking-[0.2em]">Illuppur</span>
+            <span className="block text-[#C9A84C]/60 text-[10px] font-sans uppercase tracking-[0.2em]">Okkur</span>
           </div>
         </div>
 

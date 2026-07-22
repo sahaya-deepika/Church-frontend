@@ -198,7 +198,7 @@ const LoginSignupModal = ({ onSuccess, onCancel, onSuccessGoToLink }) => {
             </div>
             <div>
               <div className="text-white font-bold text-sm tracking-[0.3px]">St. Antony's Church</div>
-              <div className="text-[#C9A84C] text-[11px] tracking-[1.2px] uppercase">Illuppur</div>
+              <div className="text-[#C9A84C] text-[11px] tracking-[1.2px] uppercase">Okkur</div>
             </div>
           </div>
 

@@ -25,7 +25,7 @@ const NavBar = ({ onLoginOrSignupClick, onLogoutClick }) => {
               St. Antony's Church
             </span>
             <span className="block text-[#C9A84C]/70 text-[10px] font-sans uppercase tracking-[0.2em]">
-              Illuppur
+              Okkur
             </span>
           </div>
         </Link>
